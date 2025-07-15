@@ -79,6 +79,7 @@ mqtt:
         device_class: distance
         unique_id: "bassin_distance"   
 
+
 Redémarrez Home Assistant pour détecter le capteur.
 Ajoutez sensor.niveau_bassin à votre tableau de bord.
 
