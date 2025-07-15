@@ -35,7 +35,7 @@ NewPing par Tim Eckel (v1.9.7)
 Installez les dépendances via platformio.ini.
 Installation
 
-Clonez ce dépôt :git clone https://github.com/ton_nom/WaterLevelSensor.git
+Clonez ce dépôt :git clone https://github.com/tranber28/bassin.git
 
 
 Ouvrez le projet dans VS Code avec l’extension PlatformIO.
